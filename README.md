@@ -11,4 +11,4 @@ kabralgustavo1@gmail.com
 
 its.gu_cabral
 
-![](https://tenor.com/pt-BR/view/galaxy-pixel-art-space-universe-stars-gif-16432213)
+![ ](https://tenor.com/pt-BR/view/galaxy-pixel-art-space-universe-stars-gif-16432213)
