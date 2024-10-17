@@ -1,16 +1,14 @@
-## Hi there 👋
+### Seja bem vindo ao meu perfil 👋
 
-<!--
-**cabralrs/cabralrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gustavo Cabral, sou estudante da rede estadual de ensino e também aluno do [Alura](https://alura.com)
 
-Here are some ideas to get you started:
+- Em busca de aprimorar minhas habilidades de programação JavaScript 💻
+- Utilizando este espaço especificamente para a organização e compartilhamento de projetos 🗃️ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato comigo 📩 
+
+kabralgustavo1@gmail.com 
+
+its.gu_cabral
+
+![](https://tenor.com/pt-BR/view/galaxy-pixel-art-space-universe-stars-gif-16432213)
