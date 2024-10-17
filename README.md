@@ -11,4 +11,4 @@ kabralgustavo1@gmail.com
 
 its.gu_cabral
 
-![ ](https://tenor.com/pt-BR/view/space-city-gif-19993984)
+(https://tenor.com/pt-BR/view/space-city-gif-19993984)
