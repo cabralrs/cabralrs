@@ -9,4 +9,5 @@ Meu nome é Gustavo Cabral, sou estudante da rede estadual de ensino e também a
 
 kabralgustavo1@gmail.com 
 
-![gif](https://tenor.com/pt-BR/view/space-city-gif-19993984)
+![space-wallpaper-stars-background](https://github.com/user-attachments/assets/ce39f78b-ba5a-449a-bb33-f48d02ae65bb)
+
